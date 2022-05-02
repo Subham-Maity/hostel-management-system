@@ -1,4 +1,12 @@
-: : : : : LOGIN DETAILS : : : : : 
+<p align="center">
+        <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/main1.png?raw=true"/>
+        </p>
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/main2.png?raw=true"/>
+        </p>
+
+## : : : : : LOGIN DETAILS : : : : : 
 *************************
 *********************
 ### Login Admin Username : 
