@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/97989643/166230597-1f05ebfc-2517-4f0d-
 - Student Registration
 
 - Manage Students.
-- 
+
 Here, Student/User can log in and view room details and book hostel easily. The user can change their password anytime. Admin can add/manage rooms, courses, students and many more. This simple project is done in PHP & It’s easy to operate and understand by users. The design is pretty simple and the user won’t find it difficult to understand, use and navigate.
 
 
