@@ -140,3 +140,9 @@ Test@123
 ```
 
 
+# ER DIagram
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/(ER%20Diagram)Entity%20Relationship%20Diagram%20Model/er.jpg?raw=true"/>
+        </p>
+
