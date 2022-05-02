@@ -52,3 +52,8 @@ C:\xampp\htdocs
 <p align="center">
         <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/subham3.png?raw=true"/>
         </p>
+
+### 5.Open browser and search 
+
+http://localhost/phpmyadmin
+
