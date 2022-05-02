@@ -83,3 +83,21 @@ C:\xampp\htdocs\hostel\database
 <p align="center">
         <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/subham8.png?raw=true"/>
         </p>
+
+
+### 9. Open your browser and search with database name"Hostel"
+
+http://localhost/hostel
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/subham9.png?raw=true"/>
+        </p>
+
+### 10.Enter ID password
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/subham10.png?raw=true"/>
+        </p>
+
+
+
