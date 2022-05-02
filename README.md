@@ -57,3 +57,16 @@ C:\xampp\htdocs
 
 http://localhost/phpmyadmin
 
+
+### 6.Then go to databases
+<p align="center">
+        <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/subham4.png?raw=true"/>
+        </p>
+
+### 7.Create a database name with hostel 
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/subham5.png?raw=true"/>
+        </p>
+
+
