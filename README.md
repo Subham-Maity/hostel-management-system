@@ -69,4 +69,13 @@ http://localhost/phpmyadmin
         <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/subham5.png?raw=true"/>
         </p>
 
+### 8.Now click on import and select the hostel databases like below 
+```
+C:\xampp\htdocs\hostel\database
+
+```
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/Hostel-Management-System/blob/master/Image%20Ignore/subham7.png?raw=true"/>
+        </p>
 
